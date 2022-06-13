@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Google Sans',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+body {
+    background-image: url('https://b-f7-zpcloud.zdn.vn/4228822140276413085/8eae21046903a95df012.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+p {
+    padding: 15px;
+}
+input#username {
+    padding: 5px 32px;
+    text-align: center;
+}
+input#email {
+    padding: 5px 32px;
+    text-align: center;
+}
+input#password {
+    padding: 5px 32px;
+    text-align: center;
+}
+input#repassword {
+    padding: 5px 32px;
+    text-align: center;
+}
+button.form-submit {
+    padding: 5px 10px;
+    margin-left: 119px;
+    border: 1px solid #333;
+    background-color: red;
+    color: #fff;
+}

@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Google Sans',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+body {
+    background-image: url('https://b-f5-zpcloud.zdn.vn/2170383478629580992/11e263592a5eea00b34f.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.login-title {
+    color: #333;
+}
+.login-username {
+    padding: 32px;
+
+}
+
+p.login-password {
+    margin-left: 128px;
+}
+label {
+    padding-right: 15px;
+    color: #fff;
+}
+p.login-remember {
+    
+    padding-top: 32px;
+    padding-left: 138px;
+}
+input#wp-submit {
+    margin-top: 16px;
+    margin-left: 325px;
+    padding: 5px 15px;
+    background-color: red;
+    border: 2px solid #333;
+    color: white;
+}
+.reset-pass-link {
+    color:#333;
+    
+    font-size: 20px;
+}
+.reset-pass-link:hover {
+    color:#fff;
+}

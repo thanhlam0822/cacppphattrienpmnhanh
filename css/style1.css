@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 1000px;
+}
+ul li a {
+    font-size: 32px;
+    color:black !important;
+}
